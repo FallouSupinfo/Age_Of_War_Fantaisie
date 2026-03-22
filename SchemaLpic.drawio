@@ -7,9 +7,6 @@
         <mxCell id="erm_kc0RF14yKsBP9lHv-1" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.encryption;network2IconXOffset=0.0006;network2IconYOffset=0.0881;network2IconW=1.0001;network2IconH=0.7019;" value="" vertex="1">
           <mxGeometry height="36.11" width="51.45" x="362" y="343.89" as="geometry" />
         </mxCell>
-        <mxCell id="erm_kc0RF14yKsBP9lHv-2" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.internet_security;network2IconW=1;network2IconH=1;" value="" vertex="1">
-          <mxGeometry height="39.06" width="39.06" x="130.94" y="540" as="geometry" />
-        </mxCell>
         <mxCell id="erm_kc0RF14yKsBP9lHv-5" parent="1" style="html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientDirection=north;perimeter=backbonePerimeter;backboneSize=20;fillColor=none;" value="" vertex="1">
           <mxGeometry height="30" width="210" x="290" y="380" as="geometry" />
         </mxCell>
