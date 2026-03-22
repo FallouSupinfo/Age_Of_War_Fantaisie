@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="Page-1" id="LVu36zAslYpe9T1eJHFD">
-    <mxGraphModel>
+    <mxGraphModel dx="1303" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="erm_kc0RF14yKsBP9lHv-1" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.encryption;network2IconXOffset=0.0006;network2IconYOffset=0.0881;network2IconW=1.0001;network2IconH=0.7019;" value="" vertex="1">
+          <mxGeometry height="36.11" width="51.45" x="362" y="343.89" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-2" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.internet_security;network2IconW=1;network2IconH=1;" value="" vertex="1">
+          <mxGeometry height="68.5" width="68.5" x="420" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-3" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.cloud;network2IconYOffset=-0.08;network2IconW=1.0004;network2IconH=0.7222;" value="" vertex="1">
+          <mxGeometry height="36.11" width="50.019999999999996" x="350" y="566" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-4" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.globe;network2IconW=1;network2IconH=1;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="100" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-5" parent="1" style="html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientDirection=north;perimeter=backbonePerimeter;backboneSize=20;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="30" width="170" x="310" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-6" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.server;network2IconW=1.0001;network2IconH=0.5812;" value="" vertex="1">
+          <mxGeometry height="39.06" width="67.21" x="500" y="371.88" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-7" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.mail_server;network2IconYOffset=-0.02556;network2IconW=1;network2IconH=0.7875;" value="" vertex="1">
+          <mxGeometry height="51.51" width="65.4" x="220" y="360.94" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-8" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.monitor;network2IconYOffset=-0.009;network2IconW=1;network2IconH=0.742;" value="" vertex="1">
+          <mxGeometry height="37.1" width="50" x="140" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Verdana;" value="Mailserver&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.10&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="210" y="440.94" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-15" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.data_storage;network2IconW=0.8252;network2IconH=0.9989;" value="" vertex="1">
+          <mxGeometry height="40" width="33.04" x="540" y="380.94" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-18" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.server;network2IconW=1.0001;network2IconH=0.5812;" value="" vertex="1">
+          <mxGeometry height="39.06" width="67.21" x="500" y="470.94" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-19" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.data_storage;network2IconW=0.8252;network2IconH=0.9989;" value="" vertex="1">
+          <mxGeometry height="40" width="33.04" x="540" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Verdana;" value="Backup&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.10&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="590" y="376.40999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-21" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#666666;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.udf_function;fillColor=#f5f5f5;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="50" width="47" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Verdana;" value="&lt;div&gt;Backup-HA&lt;/div&gt;&lt;div&gt;192.168.2.10&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="590" y="475.47" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-24" parent="1" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.server;network2IconW=1.0001;network2IconH=0.5812;" value="" vertex="1">
+          <mxGeometry height="39.06" width="67.21" x="352.79" y="210.94" as="geometry" />
+        </mxCell>
+        <mxCell id="erm_kc0RF14yKsBP9lHv-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Verdana;" value="&lt;div&gt;PKI&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;192.168.2.10&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="440" y="215.47" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
